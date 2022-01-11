@@ -10,6 +10,6 @@
   ],
   "dependencies": {
     "angular": ">=1.0.6",
-    "qrcode-generator": "https://github.com/development-bizeta-mestre/bower-qrcode-generator.git#2.0.1"    
+    "qrcode-generator": "https://github.com/development-bizeta-mestre/bower-qrcode-generator.git#0.2.1"    
   }
 }
